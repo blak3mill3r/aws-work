@@ -1,0 +1,3 @@
+[submodule "src/iris_daemon_tools"]
+	path = src/iris_daemon_tools
+	url = git@github.com:jbtv/iris_daemon_tools
